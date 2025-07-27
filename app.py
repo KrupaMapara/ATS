@@ -102,7 +102,7 @@ if uploaded_file is not None:
     st.write("File Uploaded Successfully")
 
 
-submit1 = st.button("Tell Me About the Resume")
+submit1 = st.button("Tell Me About the Resume2")
 submit3 = st.button("Percentage match")
 
 input_prompt1 = """
